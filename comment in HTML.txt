@@ -1,0 +1,2 @@
+HTML Comments are used to insert comments in the HTML code. It is a good practice of coding so that the coder and the reader can get help to understand the code. It is a simple piece of code that is wiped off (ignored) by web browsers i.e., not rendered by the browser.
+We can use Comment by using comment tag <!--...-->.

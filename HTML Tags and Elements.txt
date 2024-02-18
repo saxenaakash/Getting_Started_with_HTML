@@ -1,0 +1,7 @@
+HTML Tags:-- HTML tags are like keywords which defines that how web browser will format and render the content. With the help of tags, a web browser can distinguish between an HTML content and a simple content.
+¶ all HTML tag must enclosed within < > these brackets
+example:-- <h1>this is heading.</h1>
+
+HTML Element:-- A html element contain opening tag, content and closing tag.
+¶ Some tag has not have cloasing tag. e.g., <br>, <hr>etc.
+Example:-- <h1>this is heading.<h1>this is heading.</h1>

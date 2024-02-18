@@ -1,0 +1,2 @@
+DOCTYPE Declaration:--The DOCTYPE declaration is an instruction that specifies the version of HTML (or XML) that a web page is written in. It stands for "Document Type Declaration." The purpose of the DOCTYPE declaration is to provide web browsers with information about the type and version of markup language used in the document, enabling browsers to render the content correctly. 
+Its syantax is <!DOCTYPE html> 
